@@ -34,3 +34,4 @@ Website recommendations, Translations, Speech Recognition, Computer vision, NLP 
 * amount of data to train on is less
 
 [[Neural Networks and Tensor(flow)]]
+[[Regression]]
